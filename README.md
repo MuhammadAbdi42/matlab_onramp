@@ -1,3 +1,5 @@
+![Course banner](./banner.jpg)
+
 ## MATLAB Onramp: Code & Exercises
 
 This repository contains my personal solutions and practice scripts for the MATLAB Onramp course by Mike X Cohen.
